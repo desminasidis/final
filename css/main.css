@@ -1,0 +1,78 @@
+body {
+  background-color: #ECECEC;
+}
+
+a {
+  color: #4B4B4B;
+}
+
+a:hover,
+a:focus {
+  color: #000;
+}
+
+nav ul {
+  list-style: none;
+  text-align: left;
+  /* padding-top: .5em; */
+  padding-left: 28em;
+  display: inline;
+  margin: 0;
+}
+
+nav li {
+  display: inline;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+  padding: 1em;
+}
+
+nav a {
+  display: inline-block;
+  text-decoration: none;
+  padding-right: 1em;
+}
+
+
+
+p{
+  padding-left: 2em;
+  padding-right: 2em;
+  ont-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  	font-size: 12px;
+  	font-style: normal;
+  	font-variant: normal;
+  	font-weight: 400;
+  	line-height: 20px
+}
+
+img {
+  padding: 2em;
+}
+
+
+
+#about  {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+  padding-bottom: 1em
+}
+
+h1{
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+
++
++.copyright {
++  padding-left: 1em;
++}
